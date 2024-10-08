@@ -9,7 +9,7 @@ const Offer = () => {
         </h2>
         <div className="w-full">
           {/* Change the flex direction for mobile */}
-          <div className="flex flex-col w-full mb-10 mobile:flex-col laptop:flex-row">
+          <div className="flex flex-col w-full mb-10 mobile:flex-col laptop:flex-row laptop:gap-8"> {/* Add gap-8 for spacing */}
             <div className="w-full mb-10 mobile:mb-5 laptop:mb-0 laptop:w-1/2">
               <div className="relative h-full ml-0 mr-0 mobile:mr-0">
                 <span className="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-primary rounded-lg"></span>
@@ -37,7 +37,7 @@ const Offer = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col w-full mb-5 mobile:flex-col laptop:flex-row mobile:mt-0 mobile:pt-0">
+          <div className="flex flex-col w-full mb-5 mobile:flex-col laptop:flex-row laptop:gap-8 mobile:mt-0 mobile:pt-0"> {/* Add gap-8 for spacing */}
             <div className="w-full mb-10 mobile:mb-5 laptop:mb-0 laptop:w-1/2">
               <div className="relative h-full ml-0 mr-0 mobile:mr-0">
                 <span className="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-primary rounded-lg"></span>
