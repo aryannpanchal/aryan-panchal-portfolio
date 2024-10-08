@@ -30,7 +30,7 @@ export default function NavbarSection() {
   }, [isOpen]);
 
   return (
-    <nav className="w-full bg-white fixed top-0 left-0 z-20">
+    <nav className="w-full bg-white fixed top-0 left-0 z-20 border-b-2 border-primaryDark">
       <div className="container mx-auto flex items-center justify-between p-4">
         {/* Logo */}
         <div className="text-2xl font-bold">
@@ -101,8 +101,8 @@ export default function NavbarSection() {
             <p className="block text-gray-700 hover:text-gray-900 py-2">Contact</p>
           </Link>
           <Link href="#get-started">
-            <p className="bg-white text-black px-4 py-1 rounded-lg border-primary border-2 font-semibold hover:bg-primaryDark hover:text-white transition">
-              Work with me 
+            <p className="bg-white mobile:text-center text-black px-4 py-1 mobile:mt-4 rounded-lg border-primary border-2 font-semibold hover:bg-primaryDark hover:text-white transition">
+              Work with me ✆
             </p>
           </Link>
         </motion.div>

@@ -4,21 +4,23 @@ import Image from 'next/image'; // If using an image from the public directory, 
 const HeroSection = () => {
   return (
     <>
-    <div className="flex mobile:flex-col  laptop:flex-row items-center justify-between w-full mobile:mt-24 mobile:mb-12 laptop:mt-0 h-screen px-4 mobile:px-8 laptop:px-16 bg-white">
+    <div className="flex mobile:flex-col  laptop:flex-row items-center justify-between w-full mobile:my-24 mobile:mb-[230px] laptop:mt-0 laptop:mb-12 h-screen px-4 mobile:px-8 laptop:px-16 bg-white">
       
       {/* Left Section */}
       <div className="flex-1 flex flex-col justify-center items-start space-y-4 mobile:pr-8 ">
         <h1 className="text-4xl mobile:text-5xl font-bold text-gray-900">
-          Welcome to My Portfolio
+          Hello, I am Aryan Panchal
         </h1>
         <h2 className="text-xl mobile:text-2xl text-gray-700">
-          A showcase of my work and skills
+          Welcome to my portfolio
         </h2>
         <p className="text-md mobile:text-lg text-gray-600">
-          I’m a full-stack developer specializing in building exceptional digital experiences. Explore my projects and get in touch!
+        As a Computer Engineer with over 3 years of corporate exposure and 2 years of technical experience, I have exhibited problem
+solving skills and technical acumen. My polished communication skills, coupled with extensive leadership experience, have been
+pivotal in propelling multiple startups and small-scale companies toward operational excellence and scalability. 
         </p>
         <button className="bg-white text-black px-4 py-1 rounded-lg border-primary border-2 font-semibold hover:bg-primaryDark hover:text-white transition">
-          Get in touch
+          Open resume 📄
         </button>
       </div>
 
@@ -30,6 +32,7 @@ const HeroSection = () => {
           alt="Hero SVG Image"
           width={600}
           height={600}
+        
         />
       </div>
     </div>
@@ -49,8 +52,8 @@ const HeroSection = () => {
 
       {/* Text Content */}
       <div className="relative flex flex-col items-center justify-start h-full text-center p-8">
-        <h1 className="text-5xl font-bold text-white mt-24">Welcome to My Portfolio</h1>
-        <p className="mt-4 text-lg text-gray-300">Explore my work and get in touch!</p>
+        <h1 className="text-5xl font-bold text-white mt-24">Explore</h1>
+        {/* <p className="mt-4 text-lg text-gray-300">Explore my work and get in touch!</p> */}
         <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-wrap -m-4">
