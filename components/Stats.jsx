@@ -25,8 +25,8 @@ const Stats = () => {
               <p className="leading-tight laptop:text-2xl font-thin text-black">Professional projects</p>
             </div>
             <div className="p-4 sm:w-1/4 w-1/2">
-              <p className="title-font font-bold laptop:text-4xl mobile:text-3xl text-black">6+</p>
-              <p className="leading-tight laptop:text-2xl font-thin text-black">Companies scaled</p>
+              <p className="title-font font-bold laptop:text-4xl mobile:text-3xl text-black">10+</p>
+              <p className="leading-tight laptop:text-2xl font-thin text-black">Teams led</p>
             </div>
           </div>
         </section>
