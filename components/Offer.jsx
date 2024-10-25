@@ -15,11 +15,11 @@ const Offer = () => {
                 <span className="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-primary rounded-lg"></span>
                 <div className="relative h-full p-5 bg-white border-2 border-black rounded-lg">
                   <div className="flex items-center -mt-1">
-                    <h3 className="my-2 ml-3 text-lg font-bold text-black">Web Development</h3>
+                    <h3 className="my-2 ml-3 text-2xl font-bold text-black">Web Development</h3>
                   </div>
-                  <p className="mb-2 text-gray-600 text-lg">
+                  {/* <p className="mb-2 text-gray-600 text-lg">
                     I specialize in creating responsive, interactive websites using the latest web technologies, including HTML, CSS, JavaScript, React.js, and Next.js. My goal is to deliver user-friendly designs and optimize performance for a seamless browsing experience.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>
@@ -28,11 +28,11 @@ const Offer = () => {
                 <span className="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-primary rounded-lg"></span>
                 <div className="relative h-full p-5 bg-white border-2 border-black rounded-lg">
                   <div className="flex items-center -mt-1">
-                    <h3 className="my-2 ml-3 text-lg font-bold text-black">Project Management</h3>
+                    <h3 className="my-2 ml-3 text-2xl font-bold text-black">Project Management</h3>
                   </div>
-                  <p className="mb-2 text-gray-600 text-lg">
+                  {/* <p className="mb-2 text-gray-600 text-lg">
                     With extensive experience in Agile and Scrum methodologies, I manage end-to-end project lifecycles, ensuring projects are delivered on time and within budget while meeting high-quality standards and fostering team collaboration.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>
@@ -43,11 +43,11 @@ const Offer = () => {
                 <span className="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-primary rounded-lg"></span>
                 <div className="relative h-full p-5 bg-white border-2 border-black rounded-lg">
                   <div className="flex items-center -mt-1">
-                    <h3 className="my-2 ml-3 text-lg font-bold text-black">Content Creation</h3>
+                    <h3 className="my-2 ml-3 text-2xl font-bold text-black">Content Creation</h3>
                   </div>
-                  <p className="mb-2 text-gray-600 text-lg">
+                  {/* <p className="mb-2 text-gray-600 text-lg">
                     I create engaging digital content, including blog posts, to help brands connect with their audience and enhance their online presence. My content strategy focuses on SEO optimization and audience engagement.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>
@@ -56,11 +56,11 @@ const Offer = () => {
                 <span className="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-primary rounded-lg"></span>
                 <div className="relative h-full p-5 bg-white border-2 border-black rounded-lg">
                   <div className="flex items-center -mt-1">
-                    <h3 className="my-2 ml-3 text-lg font-bold text-black">Scalability</h3>
+                    <h3 className="my-2 ml-3 text-2xl font-bold text-black">Scalability</h3>
                   </div>
-                  <p className="mb-2 text-gray-600 text-lg">
+                  {/* <p className="mb-2 text-gray-600 text-lg">
                     I design and develop scalable solutions that grow with your business. Whether it’s building a robust tech infrastructure or enhancing frontend experience, I ensure that systems can deliver what consumers want.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>
@@ -69,11 +69,11 @@ const Offer = () => {
                 <span className="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-primary rounded-lg"></span>
                 <div className="relative h-full p-5 bg-white border-2 border-black rounded-lg">
                   <div className="flex items-center -mt-1">
-                    <h3 className="my-2 ml-3 text-lg font-bold text-black">Machine Learning & Research</h3>
+                    <h3 className="my-2 ml-3 text-2xl font-bold text-black">Machine Learning & Research</h3>
                   </div>
-                  <p className="mb-2 text-gray-600 text-lg">
+                  {/* <p className="mb-2 text-gray-600 text-lg">
                     My expertise in machine learning and AI research allows me to develop intelligent systems that can analyze data, predict trends, and optimize processes. From data pre-processing to model building, I provide comprehensive solutions.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>

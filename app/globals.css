@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-image: url("/bg.svg");
+    background-size: cover;         /* Scale the image to cover the entire container */
+    background-position: center;    /* Center the image in the container */
+    background-repeat: no-repeat;   /* Prevent the image from repeating */
+}
