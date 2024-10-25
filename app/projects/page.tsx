@@ -149,7 +149,7 @@ const projects = () => {
                                         </span>
                                     </summary>
                                     <p className="mt-3 text-gray-600 group-open:animate-fadeIn dark:text-gray-300">
-                                        After logging into your account, you can view and save your support tickets under the "My Tickets" section of your dashboard.
+                                        After logging into your account, you can view and save your support tickets under the My Tickets section of your dashboard.
                                     </p>
                                 </details>
 
@@ -269,7 +269,7 @@ const projects = () => {
                                         </span>
                                     </summary>
                                     <p className="mt-3 text-gray-600 group-open:animate-fadeIn dark:text-gray-300">
-                                        After logging into your account, you can view and save your support tickets under the "My Tickets" section of your dashboard.
+                                        After logging into your account, you can view and save your support tickets under the My Tickets section of your dashboard.
                                     </p>
                                 </details>
 
@@ -389,7 +389,7 @@ const projects = () => {
                                         </span>
                                     </summary>
                                     <p className="mt-3 text-gray-600 group-open:animate-fadeIn dark:text-gray-300">
-                                        After logging into your account, you can view and save your support tickets under the "My Tickets" section of your dashboard.
+                                        After logging into your account, you can view and save your support tickets under the My Tickets section of your dashboard.
                                     </p>
                                 </details>
 
@@ -509,7 +509,7 @@ const projects = () => {
                                         </span>
                                     </summary>
                                     <p className="mt-3 text-gray-600 group-open:animate-fadeIn dark:text-gray-300">
-                                        After logging into your account, you can view and save your support tickets under the "My Tickets" section of your dashboard.
+                                        After logging into your account, you can view and save your support tickets under the My Tickets section of your dashboard.
                                     </p>
                                 </details>
 

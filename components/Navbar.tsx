@@ -21,13 +21,12 @@ export default function NavbarSection() {
   };
 
   useEffect(() => {
-    // Add event listener for clicks
     document.addEventListener("click", handleClickOutside);
     return () => {
-      // Clean up the event listener on component unmount
       document.removeEventListener("click", handleClickOutside);
     };
-  }, [isOpen]);
+  }, [isOpen, handleClickOutside]); // Ensure to include handleClickOutside
+  
 
   return (
     <nav className="w-full bg-white fixed top-0 left-0 z-20 border-b-2 border-primaryDark">
