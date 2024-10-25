@@ -30,7 +30,7 @@ const Companies = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="/2.svg"
+                src="/2.png"
                 alt="Company 2"
                 width={400}  // Increased width
                 height={100} // Increased height
@@ -43,7 +43,7 @@ const Companies = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="/3.svg"
+                src="/3.png"
                 alt="Company 3"
                 width={200}  // Increased width
                 height={10} // Increased height
