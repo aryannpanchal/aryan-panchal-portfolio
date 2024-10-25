@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 const HeroSection = () => {
   return (
-    <div className="flex mobile:flex-col mobile:mb-0 laptop:flex-row items-center justify-between w-full mobile:mt-24 laptop:mt-14 laptop:mb-12 laptop:px-16 bg-[url('/bg.svg')] bg-cover bg-center">
+    <div className="flex mobile:flex-col mobile:mb-0 laptop:flex-row items-center justify-between w-full mobile:mt-36 laptop:mt-14 laptop:mb-12 laptop:px-16 bg-[url('/bg.svg')] bg-cover bg-center">
       
       {/* Left Section */ }
       <div className="flex-1 flex flex-col justify-center items-center mobile:px-4 mobile:space-y-8 text-center z-10">
