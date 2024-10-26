@@ -4,7 +4,7 @@ const Offer = () => {
   return (
     <>
       <div className="container relative flex flex-col justify-between h-full max-w-6xl px-10 mx-auto laptop:px-0 laptop:pt-12 mb-24">
-        <h2 className="mb-12 laptop:text-4xl mobile:text-4xl font-semibold text-center leading-tight text-primaryDark">
+        <h2 className="mb-12 laptop:text-4xl mobile:text-2xl font-semibold text-center leading-tight text-primaryDark">
           What I am good at
         </h2>
         <div className="w-full">

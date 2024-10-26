@@ -7,6 +7,7 @@ import Testimonials from './../components/Testimonials';
 import Footer from './../components/Footer';
 import About from './../components/About';
 import Companies from '@/components/Companies';
+import { MarqueeSection } from '@/components/MarqueeSection';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <NavbarSection />
       <HeroSection />
       <About />
+      <MarqueeSection />
       <Stats />
       <Companies />
       <Offer />
