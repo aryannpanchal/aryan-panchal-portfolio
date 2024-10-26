@@ -6,8 +6,8 @@ import Image from 'next/image';
 const Companies = () => {
   return (
     <>
-      <p className='font-semibold text-center laptop:text-2xl mobile:text-3xl mobile:pb-8 laptop:mb-0 laptop:pb-0 mobile:pt-14 mobile:px-8 laptop:pt-0'>Associated companies </p>
-      <section className="w-full h-fit flex justify-center items-center p-8 mb-20">
+      <p className='font-semibold text-center laptop:text-4xl mobile:text-2xl mobile:pb-8 laptop:mb-0 laptop:pb-0 mobile:pt-14 mobile:px-8 laptop:mt-8'>Associated companies </p>
+      <section className="w-full h-fit flex justify-center items-center p-8 mobile:mb-12">
         <div className="max-w-screen-xl px-4 mx-auto lg:pb-16">
           {/* Adjust the grid layout for mobile and larger screens */}
           <div className="grid grid-cols-1 mobile:grid-cols-1 laptop:grid-cols-3 gap-4 text-gray-500 mobile:gap-6 dark:text-gray-400">

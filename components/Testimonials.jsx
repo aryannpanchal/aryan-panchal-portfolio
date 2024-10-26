@@ -27,7 +27,7 @@ const testimonialsData = [
 
 const Testimonials = () => {
   return (
-    <section id='testimonials' className='bg-gray-100 py-14'>
+    <section id='testimonials' className='bg-gray-100 mobile:pb-14'>
       <h1 className='font-semibold text-center laptop:text-4xl mobile:text-2xl pb-12 text-primary'>Testimonials</h1>
       <div className='container mx-auto'>
         <div className="flex flex-col laptop:flex-row laptop:space-x-8 laptop:justify-center">

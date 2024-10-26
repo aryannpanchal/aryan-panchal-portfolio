@@ -19,7 +19,7 @@ export function MarqueeSection() {
 
   return (
     
-    <div className="laptop:py-14 mobile:pb-12 bg-primaryDark laptop:my-32">
+    <div className="laptop:py-14 mobile:pb-12 bg-primary laptop:my-32">
     <p className='font-semibold text-center laptop:text-4xl pb-12 mobile:pt-14 laptop:pt-0 mobile:text-2xl text-white'>Tech stack I have worked with</p>
       <div
         className="flex-row w-max flex"
