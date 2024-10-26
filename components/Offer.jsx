@@ -3,7 +3,7 @@ import React from 'react';
 const Offer = () => {
   return (
     <>
-      <div className="container relative flex flex-col justify-between h-full max-w-6xl px-10 mx-auto laptop:px-0 laptop:pt-12 laptop:mb-44">
+      <div className="container relative flex flex-col justify-between h-full max-w-6xl px-10 mx-auto laptop:px-0 laptop:pt-12 laptop:mb-44 mobile:mb-28">
         <h2 className="mb-12 laptop:text-4xl mobile:text-2xl font-semibold text-center leading-tight text-primaryDark">
           What I am good at
         </h2>
