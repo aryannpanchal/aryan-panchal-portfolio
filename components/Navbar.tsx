@@ -151,7 +151,7 @@ export default function NavbarSection() {
           {/* <Link href="#contact">
             <p className="text-gray-700 hover:text-gray-900">Contact</p>
           </Link> */}
-          <Link href="#get-started">
+          <Link href="https://wa.me/918291105272?text=I%20would%20like%20to%20work%20with%20you" target="_blank">
             <p className="bg-white mobile:text-center text-black px-4 py-1 mobile:mt-4 rounded-lg border-primary border-2 font-semibold hover:bg-primaryDark hover:text-white transition">
               Work with me ✆
             </p>
