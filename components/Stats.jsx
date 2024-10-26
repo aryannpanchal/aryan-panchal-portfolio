@@ -14,19 +14,19 @@ const Stats = () => {
           <div className="flex flex-wrap m-4 text-center text-black">
             <div className="p-4 sm:w-1/4 w-1/2">
               <p className="title-font font-bold laptop:text-4xl mobile:text-3xl text-black">12+</p>
-              <p className="leading-relaxed laptop:text-2xl font-thin text-black">Certifications</p>
+              <p className="leading-relaxed laptop:text-2xl text-black">Certifications</p>
             </div>
             <div className="p-4 sm:w-1/4 w-1/2">
               <p className="title-font font-bold laptop:text-4xl mobile:text-3xl text-black">3+</p>
-              <p className="leading-relaxed laptop:text-2xl font-thin text-black">Publications</p>
+              <p className="leading-relaxed laptop:text-2xl text-black">Publications</p>
             </div>
             <div className="p-4 sm:w-1/4 w-1/2">
               <p className="title-font font-bold laptop:text-4xl mobile:text-3xl text-black">3+</p>
-              <p className="leading-tight laptop:text-2xl font-thin text-black">Professional projects</p>
+              <p className="leading-tight laptop:text-2xl text-black">Professional projects</p>
             </div>
             <div className="p-4 sm:w-1/4 w-1/2">
               <p className="title-font font-bold laptop:text-4xl mobile:text-3xl text-black">10+</p>
-              <p className="leading-tight laptop:text-2xl font-thin text-black">Teams led</p>
+              <p className="leading-tight laptop:text-2xl text-black">Teams led</p>
             </div>
           </div>
         </section>
