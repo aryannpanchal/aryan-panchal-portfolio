@@ -28,7 +28,7 @@ const Offer = () => {
                 <span className="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-primary rounded-lg"></span>
                 <div className="relative h-full p-5 bg-white border-2 border-black rounded-lg">
                   <div className="flex items-center -mt-1">
-                    <h3 className="my-2 ml-3laptop:text-2xl mobile:text-lg  font-bold text-black">Project Management</h3>
+                    <h3 className="my-2 ml-3 laptop:text-2xl mobile:text-lg  font-bold text-black">Project Management</h3>
                   </div>
                   {/* <p className="mb-2 text-gray-600 text-lg">
                     With extensive experience in Agile and Scrum methodologies, I manage end-to-end project lifecycles, ensuring projects are delivered on time and within budget while meeting high-quality standards and fostering team collaboration.
