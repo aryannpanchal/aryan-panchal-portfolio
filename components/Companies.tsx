@@ -34,7 +34,7 @@ const Companies = () => {
                 alt="Company 2"
                 width={400}  // Increased width
                 height={100} // Increased height
-                className="object-contain max-w-full mobile:mt-6 laptop:mt-0 mobile:w-[300px]" // Added object-contain for responsiveness
+                className="object-contain max-w-full mobile:mt-6 laptop:mt-0 mobile:w-[300px] laptop:w-[400px]" // Added object-contain for responsiveness
               />
             </a>
             <a
