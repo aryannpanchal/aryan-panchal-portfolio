@@ -27,7 +27,7 @@ export function MarqueeSection() {
       >
       </div>
       <div className="relative mt-6 overflow-hidden">
-        <Marquee speed={24} direction="right">
+        <Marquee speed={80} direction="right">
           {languages.map((logo, idx) => (
             <img
               key={idx}
