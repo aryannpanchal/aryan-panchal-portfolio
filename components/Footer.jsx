@@ -8,7 +8,7 @@ const Footer = () => {
         Aryan Panchal | Portfolio
     </a>
 
-    <span className="block text-sm text-center text-gray-500">© 2021-2022. All Rights Reserved.        
+    <span className="block text-sm text-center text-gray-500">© 2024-2025. All Rights Reserved.        
     </span>
 
 </div>
