@@ -31,7 +31,7 @@ const Work = () => {
             <div className="order-1 bg-primary rounded-lg shadow-xl w-full mobile:w-5/12 px-4 py-4">
               <h3 className="mb-3 font-bold text-white text-lg mobile:text-sm laptop:text-lg">Startup Engineer, Chemisphere.in</h3>
               <p className="laptop:text-lg mobile:text-sm leading-snug text-white">
-                Leading the strategic design and development of Chemisphere's website and application. Boosted social media engagement to over 250K members and managed intern training and skill development.
+                Leading the strategic design and development of Chemisphere website and application. Boosted social media engagement to over 250K members and managed intern training and skill development.
               </p>
             </div>
           </div>
