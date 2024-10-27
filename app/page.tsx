@@ -8,6 +8,7 @@ import Footer from './../components/Footer';
 import About from './../components/About';
 import Companies from '@/components/Companies';
 import { MarqueeSection } from '@/components/MarqueeSection';
+import Work from '@/components/Work';
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <MarqueeSection />
       <Stats />
       <Companies />
+      <Work />
       <Offer />
       <Testimonials />
       <Footer />
