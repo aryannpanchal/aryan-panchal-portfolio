@@ -17,9 +17,22 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Aryan Panchal Portfolio Website",
   description: "As a Computer Engineer with over 3 years of corporate exposure and 2 years of technical experience, I have exhibited problem solving ability and technical skill.",
+  openGraph: {
+    title: "Aryan Panchal Portfolio Website",
+    description: "As a Computer Engineer with over 3 years of corporate exposure and 2 years of technical experience, I have exhibited problem solving ability and technical skill.",
+    url: "https://aryan-panchal-portfolio.vercel.app/", // Replace with your actual URL
+    siteName: "Aryan Panchal",
+    images: [
+      {
+        url: "/ap.png", // Path to your local image
+        width: 1200,  // Adjust width as needed
+        height: 630,  // Adjust height as needed
+        type: "image/png", // Change to 'image/png'
+      },
+    ],
+    type: "website",
+  },
 };
-
-
 
 export default function RootLayout({
   children,
