@@ -16,7 +16,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Aryan Panchal Portfolio Website",
-  description: "As a Computer Engineer with over 3 years of corporate exposure and 2 years of technical experience, I have exhibited problem solving skills and technical acumen. My polished communication skills, coupled with extensive leadership experience, have been pivotal in propelling multiple startups and small-scale companies toward operational excellence and scalability.",
+  description: "As a Computer Engineer with over 3 years of corporate exposure and 2 years of technical experience, I have exhibited problem solving ability and technical skill.",
 };
 
 
