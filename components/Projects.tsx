@@ -5,9 +5,9 @@ import React from 'react';
 const Projects = () => {
   return (
     <>
-      <p className="font-semibold text-center laptop:text-4xl mobile:text-2xl pb-12 mobile:pt-24 laptop:pt-0">My Projects</p>
+      <p id="projects" className="font-semibold text-center laptop:text-4xl mobile:text-2xl pb-12 mobile:pt-24 laptop:pt-0">My Projects</p>
       
-      <div className="flex justify-center mobile:mx-6">
+      <div  className="flex justify-center mobile:mx-6">
         <div className="grid gap-12 mobile:grid-cols-1 laptop:grid-cols-3 max-w-7xl">
           
           {/* Project Card 1 */}
