@@ -30,7 +30,7 @@ const Publications = () => {
               <h3 className="text-lg font-medium mb-2">
 Systematic Approach in Multiple Disease Prognosis Using Machine Learning Techniques©</h3>
               <p className="text-gray-600 text-sm mb-4">
-              Copyright under Government of India · May 6, 2024. I hold a registered copyright for this project titled "A Systematic Approach in Multiple Disease Prognosis using Machine Learning," encompassing the title, abstract, system architecture, and logo.
+              Copyright under Government of India · May 6, 2024. I hold a registered copyright for this project titled A Systematic Approach in Multiple Disease Prognosis using Machine Learning, encompassing the title, abstract, system architecture, and logo.
               </p>
             </div>
             <div className='mx-4'>
