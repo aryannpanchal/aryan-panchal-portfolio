@@ -48,6 +48,9 @@ export default function NavbarSection() {
           <Link href="#testimonials">
             <p className="text-gray-700 hover:text-gray-900">Testimonials</p>
           </Link>
+          <Link href="#publications">
+            <p className="text-gray-700 hover:text-gray-900">Publications</p>
+          </Link>
         </div>
 
         <div className="bg-white laptop:flex justify-center gap-2 flex-wrap mobile:hidden">
@@ -122,6 +125,9 @@ export default function NavbarSection() {
           </Link>
           <Link href="#testimonials" onClick={toggleMenu}>
             <p className="text-gray-700 hover:text-gray-900">Testimonials</p>
+          </Link>
+          <Link href="#publications" onClick={toggleMenu}>
+            <p className="text-gray-700 hover:text-gray-900">Publications</p>
           </Link>
           <Link
             target="__blank"

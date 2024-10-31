@@ -10,6 +10,7 @@ import Companies from '@/components/Companies';
 import { MarqueeSection } from '@/components/MarqueeSection';
 import Work from '@/components/Work';
 import Projects from './../components/Projects';
+import Publications from '@/components/Publications';
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <Companies />
       <Work />
       <Projects />
+      <Publications />
       <Offer />
       <Testimonials />
       <Footer />
