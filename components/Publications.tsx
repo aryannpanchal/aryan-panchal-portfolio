@@ -92,7 +92,7 @@ Systematic Approach in Multiple Disease Prognosis Using Machine Learning Techniq
               <h3 className="text-lg font-medium mb-2">
 Technical and Management Specific Survey of Medical Systems for Effective Treatment</h3>
               <p className="text-gray-600 text-sm mb-4">
-              Hospital management systems provide benefits such as operational flexibility, improved management, quality patient care, tight cost control and profitability. The aim of the project, called the Hospital Management System, is to digitize the hospital's management office to create a very user-friendly, fast and cost-effective software. Manages the collection of patient information, diagnostic details, progress, and more. 
+              Hospital management systems provide benefits such as operational flexibility, improved management, quality patient care, tight cost control and profitability. The aim of the project, called the Hospital Management System, is to digitize the hospital management office to create a very user-friendly, fast and cost-effective software. Manages the collection of patient information, diagnostic details, progress, and more. 
               </p>
 
               {/* Button Container */}
