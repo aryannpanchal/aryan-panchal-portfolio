@@ -99,7 +99,7 @@ Technical and Management Specific Survey of Medical Systems for Effective Treatm
              
             </div> 
             <div className='mx-4'>
-              <Link href="https://www.researchgate.net/publication/381723747_A_Comprehensive_Survey_of_Machine_Learning_Algorithms_for_Multi-Disease_Prognosis" target="_blank">
+              <Link href="https://ijirt.org/Article?manuscript=168017" target="_blank">
                 <text>
                   <p className='text-center mobile:mb-4 text-black px-4 py-1 rounded-lg border-primary border-2 font-semibold hover:bg-primaryDark hover:text-white transition'>View publication</p>
                 </text>
