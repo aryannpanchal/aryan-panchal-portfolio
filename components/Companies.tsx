@@ -6,9 +6,9 @@ import Image from 'next/image';
 const Companies = () => {
   return (
     <>
-      <p className='font-semibold text-center laptop:text-4xl mobile:text-2xl mobile:pb-8 laptop:mb-0 laptop:pb-0 mobile:pt-14 mobile:px-8 laptop:mt-8'>Associated companies </p>
+      <p className='font-semibold text-center text-2xl mobile:text-3xl mobile:pt-12 laptop:text-4xl pb-12 laptop:pt-8 z-100'>Associated companies </p>
       <section className="w-full h-fit flex justify-center items-center p-8 mobile:mb-12">
-        <div className="max-w-screen-xl px-4 mx-auto lg:pb-16">
+        <div className="max-w-screen-xl px-4 mx-auto laptop:pb-16">
           {/* Adjust the grid layout for mobile and larger screens */}
           <div className="grid grid-cols-1 mobile:grid-cols-1 laptop:grid-cols-3 gap-4 text-gray-500 mobile:gap-6 dark:text-gray-400">
             <a
@@ -47,7 +47,7 @@ const Companies = () => {
                 alt="Company 3"
                 width={200}  // Increased width
                 height={10} // Increased height
-                className="object-contain max-w-full mobile:hidden laptop:block" // Added object-contain for responsiveness
+                className="object-contain max-w-full " // Added object-contain for responsiveness
               />
             </a>
           </div>
