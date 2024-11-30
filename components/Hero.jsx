@@ -27,7 +27,7 @@ const HeroSection = () => {
   <img src="https://assets.website-files.com/63904f663019b0d8edf8d57c/63905ba1538296b3f50a905e_pattern-2.svg" alt="" class="absolute bottom-auto left-auto right-0 top-0 -z-10 hidden sm:inline-block" />
 </section> */}
 
-    <div className="flex mobile:flex-col mobile:mb-0 laptop:flex-row items-center justify-between w-full mobile:mt-36 laptop:mt-14 laptop:mb-12 laptop:px-16 bg-[url('/bg.svg')] bg-cover bg-center">
+    <div className="flex mobile:flex-col mobile:mb-0 laptop:flex-row items-center justify-between w-full mobile:mt-36 laptop:mt-24 laptop:mb-12 laptop:px-16 ">
       
       {/* Left Section */ }
       <div className="flex-1 flex flex-col justify-center items-center mobile:px-4 mobile:space-y-8 text-center z-10">

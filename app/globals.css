@@ -6,12 +6,13 @@ html {
     scroll-behavior: smooth;
   }
   
-body{
+/* body{
     background-image: url("/bg.svg");
-    background-size: cover;         /* Scale the image to cover the entire container */
-    background-position: center;    /* Center the image in the container */
-    background-repeat: no-repeat;   /* Prevent the image from repeating */
-}
+    background-size: cover;         
+    background-position: center;    
+    background-repeat: no-repeat;   
+} */
+
 
 .Documents-btn:hover .filePage {
     transform: translateY(-5px);
